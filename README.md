@@ -12,11 +12,11 @@ Local storage with @react-native-async-storage/async-storage
 🚀 Getting Started
 Follow these steps to clone and run the app locally.
 1. Clone the Repository
-->                    git clone https://github.com/your-username/your-repo-name.git
-2.Navigate to the directory
+->                    git clone https://github.com/Amanjeet-007/React-Native_Task
+2. Navigate to the directory
 3. Install Dependencies
-->                    npm install
-5. Install Expo CLI (if not installed)
+->                  npm install
+4. Install Expo CLI (if not installed)
 ->                   npm install -g expo-cli
-6. Run the App
+5. Run the App
 ->                   expo start
